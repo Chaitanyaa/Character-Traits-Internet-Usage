@@ -15,21 +15,21 @@ Source URL : Kaggle (https://www.kaggle.com/miroslavsabo/young-people-survey)
 # Description of & Structure of the Data
 
 The survey was taken on a Likert scale and It is the most widely used approach to scaling responses in survey research, such that the term is often used interchangeably with the rating scale.
-The variables can be split into the following groups:
-Music preferences (19 items)
-Movie preferences (12 items)
-Hobbies & interests (32 items)
-Phobias (10 items)
-Health habits (3 items)
-Personality traits, views on life, & opinions (57 items)
-Spending habits (7 items)
-Demographics (10 items)
+The variables can be split into the following groups:</br>
+Music preferences (19 items)</br>
+Movie preferences (12 items)</br>
+Hobbies & interests (32 items)</br>
+Phobias (10 items)</br>
+Health habits (3 items)</br>
+Personality traits, views on life, & opinions (57 items)</br>
+Spending habits (7 items)</br>
+Demographics (10 items)</br>
 The dataset was in .csv format and for convenience, the original variable names in the dataset were shortened in the data file. Another file columns.csv file was used to match the data with the original names. The data file (responses.csv) consists of 1010 rows and 150 columns (139 integer and 11 categorical). The dataset contains few missing values in almost every column.
-The integer features are in the range of 1 to 5 as either of the follows:
-Strongly disagree 1-2-3-4-5 Strongly agree
-Don't enjoy at all 1-2-3-4-5 Enjoy very much
-Not interested 1-2-3-4-5 Very interested
-Not afraid at all 1-2-3-4-5 Very afraid of
+The integer features are in the range of 1 to 5 as either of the follows:</br>
+Strongly disagree 1-2-3-4-5 Strongly agree</br>
+Don't enjoy at all 1-2-3-4-5 Enjoy very much</br>
+Not interested 1-2-3-4-5 Very interested</br>
+Not afraid at all 1-2-3-4-5 Very afraid of</br>
 
 # Notes on Exploration of the Dataset
 
